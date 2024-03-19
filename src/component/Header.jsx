@@ -4,7 +4,7 @@ const Feedback = () => {
   return (
     <div className="containar">      
       <div className="feedback-header">
-      <h2>Feedback Form</h2>
+     
       <p>We would love to hear your thoughts, suggestions, concerns or problems with anything so we can improve!</p>
       </div>
       <hr />
