@@ -1,10 +1,10 @@
 
-import React from 'react'
-import Feedback from './component/Feedback'
+ 
+import Header from './component/'
 const App = () => {
   return (
     <div>
-      <Feedback/>
+      <Header/>
     </div>
   )
 }
